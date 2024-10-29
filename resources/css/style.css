@@ -1,0 +1,17 @@
+/* Default theme (light mode) */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* Dark theme */
+body.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+#theme-toggle {
+    margin: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
